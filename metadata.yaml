@@ -1,0 +1,33 @@
+_repo: Seven-Short-Plays_41653
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41653-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gregory, Lady
+    aliases:
+    - Gregory, Isabella Augusta Persse, Lady
+    - Persse, Isabella Augusta
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4092'
+    url: http://www.gutenberg.org/2009/agents/4092
+    wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
+description: ''
+gutenberg_issued: '2012-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41653'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Drama'
+- !lcc 'PR'
+tableOfContents: Spreading the news -- Hyacinth Halvey -- The rising of the moon --
+  The jackdaw -- The workhouse ward -- The travelling man -- The gaol gate -- Music
+  for the songs in the plays -- Notes, &c.
+title: Seven Short Plays
+url: http://www.gutenberg.org/ebooks/41653
